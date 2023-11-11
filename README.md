@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![](https://komarev.com/ghpvc/?shravankshenoy)
+![](https://komarev.com/ghpvc/?shravankshenoy&style=flat-square)
 
 <!--
 **shravankshenoy/shravankshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
