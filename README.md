@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?shravankshenoy&style=flat-square)
+
+[![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravankshenoy)](https://github.com/shravankshenoy/github-readme-stats)
 
 <!--
 **shravankshenoy/shravankshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
