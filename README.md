@@ -7,6 +7,8 @@
 
 <br>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -20,7 +22,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shravankshenoy&theme=prussian&show_icons=true&locale=en" alt="shravankshenoy" /></p>
 
-
+<h3 align="left">Connect with Me:</h3>
+X (formerly Twitter) : https://twitter.com/shravan66083169
 
 <!--
 **shravankshenoy/shravankshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
