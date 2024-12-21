@@ -4,21 +4,21 @@
 
 ### Open Source Contributions
 **Raggenie**
-Project link : https://github.com/sirocco-ventures/raggenie
+(Project link : https://github.com/sirocco-ventures/raggenie)
 
 1. Connector to load data from sqlite database
 2. Ollama integration for inferencing
 3. List of contributions : [#154](https://github.com/sirocco-ventures/raggenie/pull/154), [#123](https://github.com/sirocco-ventures/raggenie/issues/123#issuecomment-2548665242)
 
 **Sukoon**
-Project link : https://github.com/PeoplePlusAI/Sukoon
+(Project link : https://github.com/PeoplePlusAI/Sukoon)
 
 1. Developed first cut of a PII removal module using Presidio [#5](https://github.com/PeoplePlusAI/Sukoon/discussions/5#discussioncomment-11006430)
 
 
 
 **Vulnerablecode**
-Project link : https://github.com/aboutcode-org/vulnerablecode
+(Project link : https://github.com/aboutcode-org/vulnerablecode)
 
 1. Added code to scrape and parse cve vulnerability data from snyk website
 2. Added code to ingest vulnerability data related to Rust packages using Github API
