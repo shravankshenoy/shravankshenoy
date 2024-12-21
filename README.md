@@ -26,12 +26,19 @@ Project link : https://github.com/aboutcode-org/vulnerablecode
 [#1399](https://github.com/aboutcode-org/vulnerablecode/pull/1399), [#1417](https://github.com/aboutcode-org/vulnerablecode/pull/1417), [#131](https://github.com/aboutcode-org/univers/pull/131
 )
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shravankshenoy&theme=prussian&show_icons=true&locale=en" alt="shravankshenoy" /></p>
+**GCP Scanner**
+Project link : https://github.com/google/gcp_scanner
+
+1.Added ability to scan the following GCP resources : Compute/securitypolicies and Cloud billing
+2.List of contributions : [#308](https://github.com/google/gcp_scanner/pull/308), [#314](https://github.com/google/gcp_scanner/pull/314)
 
 <h3 align="left">Connect with Me:</h3>
 X (formerly Twitter) : https://twitter.com/shravan66083169
 
 <!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shravankshenoy&theme=prussian&show_icons=true&locale=en" alt="shravankshenoy" /></p>
+
+
 **shravankshenoy/shravankshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
