@@ -27,10 +27,10 @@ Project link : https://github.com/aboutcode-org/vulnerablecode
 )
 
 **GCP Scanner**
-Project link : https://github.com/google/gcp_scanner
+(Project link : https://github.com/google/gcp_scanner)
+1. Added ability to scan the following GCP resources : Compute/securitypolicies and Cloud billing
+2. List of contributions : [#308](https://github.com/google/gcp_scanner/pull/308), [#314](https://github.com/google/gcp_scanner/pull/314)
 
-1.Added ability to scan the following GCP resources : Compute/securitypolicies and Cloud billing
-2.List of contributions : [#308](https://github.com/google/gcp_scanner/pull/308), [#314](https://github.com/google/gcp_scanner/pull/314)
 
 <h3 align="left">Connect with Me:</h3>
 X (formerly Twitter) : https://twitter.com/shravan66083169
